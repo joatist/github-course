@@ -1,4 +1,5 @@
 Primeiro registro do curso de git
 
-Este arquivo fo alterado
 
+
+Saiba mais sobre este arquivo 
